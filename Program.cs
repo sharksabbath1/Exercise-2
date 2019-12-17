@@ -10,7 +10,7 @@ namespace hackerv2
             for (int x = 0; x < P.Length; x++)
             {
                 P[x] = new Person();
-            }
+            }                               
 
             int index = 0;
 
